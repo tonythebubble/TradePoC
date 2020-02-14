@@ -1,0 +1,35 @@
+[
+  {
+    "stockId": 1,
+    "stockName": "Acme Rockets",
+    "stockType": "Aerospace",
+    "clientId": 2,
+    "clientName": "Wile E Coyote",
+    "venueName": "Arizona Desert",
+    "quantity": "50",
+    "price": 1.99,
+    "buySell": "buy"
+  },
+  {
+    "stockId": 2,
+    "stockName": "Nike Trainers",
+    "stockType": "Fitness",
+    "clientId": 1,
+    "clientName": "Road Runner",
+    "venueName": "Arizona Desert",
+    "quantity": "50",
+    "price": "5.99",
+    "buySell": "sell"
+  },
+  {
+    "stockId": 2,
+    "stockName": "Nike Trainers",
+    "stockType": "Fitness",
+    "clientId": 1,
+    "clientName": "Road Runner",
+    "venueName": "Arizona Desert",
+    "quantity": "50",
+    "price": "5.9.9",
+    "buySell": "sell"
+  }
+]
